@@ -11,9 +11,9 @@ This repository contains supplamantry and experimental material for the IJCLR 20
 
 ### Usage for MIL
 <ol>
-  <li>Download Louise and copy to your project folder</li>
+  <li>Install PyGol from its Github link</li>
   <li>Download MIL folder from this repository into your project folder</li>
-  <li>Follow the instruction on Louise Github</li>
+  <li>Follow the instruction on PyGol Github</li>
 </ol>  
 
 ### Usage for RL
