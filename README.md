@@ -5,7 +5,7 @@ This repository contains supplamantry and experimental material for the IJCLR 20
 <ul>
   <li>SWI Prolog version 9 and above <a href="https://www.swi-prolog.org">swi-prolog.org</a></li>
   <li>Python 3 and above <a href="https://www.python.org/downloads/">Download</a></li>
-  <li>Louise - polynomial-time Program Learning <a href="https://github.com/stassa/louise">Github</a> </li>
+  <li>PyGol <a href="[https://github.com/stassa/louise](https://github.com/PyGol/PyGol-versions)">Github</a> </li>
   <li>Download ExpGen <a href="https://github.com/EvZissel/expgen">Github</a></li>
 </ul>  
 
