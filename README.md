@@ -23,3 +23,5 @@ This repository contains supplamantry and experimental material for the IJCLR 20
   <li>Easily run test.py</li>
 </ol>  
 
+### note:
+<p>The file undistortion.py is used to generate normalaised maze matrix for logic purposes</p>
