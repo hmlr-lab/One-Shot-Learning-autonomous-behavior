@@ -1,7 +1,7 @@
 # One-Shot Learning of Autonomous Behavior: A Meta-interpretive Learning approach
 This repository contains supplamantry and experimental material for the IJCLR 2024 paper.
-<img src="plot1.png">
-<img src="plot2.png">
+<img src="plot1.png" style="width:48%">
+<img src="plot2.png" style="width:48%">
 ### Requirements
 <ul>
   <li>SWI Prolog version 9 and above <a href="https://www.swi-prolog.org">swi-prolog.org</a></li>
