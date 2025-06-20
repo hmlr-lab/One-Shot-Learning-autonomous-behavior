@@ -10,6 +10,21 @@ This repository contains supplamantry and experimental material for the IJCLR 20
   <li>Download ExpGen <a href="https://github.com/EvZissel/expgen">Github</a></li>
 </ul>  
 
+### Usage for MIE (Meta-Interpretive Learning)
+
+To run experiments related to Meta-Interpretive Learning (MIE):
+
+1. **Install PyGol**  
+   Clone or install PyGol from the official GitHub repository:  
+   [https://github.com/danyvarghese/PyGol](https://github.com/danyvarghese/PyGol)
+
+2. **Set Up MIE Directory**  
+   Download the `MIE` folder from this repository and place it inside your project directory.
+
+3. **Run Experiments**  
+   Follow the usage instructions provided in the PyGol documentation to execute MIE-related experiments:  
+   [https://github.com/danyvarghese/PyGol#usage](https://github.com/danyvarghese/PyGol#usage)
+
 ### Usage for MIL
 <ol>
   <li>Install PyGol from its Github link</li>
