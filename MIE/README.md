@@ -33,7 +33,7 @@ pip install tqdm
 ## 🚀 How to Run
 
 1. **Ensure directory structure** is intact:
-    - `maze_util.py` and `PyGol_Final_20240718/` must be available in the parent and grandparent folders respectively.
+    - `maze_util.py` and `PyGol` must be available in the parent and grandparent folders respectively.
     - Grid files (e.g., `1.py`, `2.py`, ...) should be accessible via `load_map_data`.
 
 2. **Execute the script**:
